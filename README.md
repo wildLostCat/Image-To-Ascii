@@ -2,5 +2,5 @@
 <p>
 A python app that turns pictures into ascii art
 </p>
-<br>
-- Examples in (sample_results)
+
+(Examples in "sample_results")
