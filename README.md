@@ -1,5 +1,6 @@
-<h>Image To ASCII</h>
+<h1>Image To ASCII</h1>
+<p>
 A python app that turns pictures into ascii art
-
-- Examples:
-![example image](./sample_results/sample2.png)
+</p>
+<br>
+- Examples in (sample_results)
